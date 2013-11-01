@@ -5,7 +5,6 @@ import sys
 import time
 import XLError
 
-XL_SUCCESS = 0
 def main():
 	'''
 		Python version of thunder demo 
